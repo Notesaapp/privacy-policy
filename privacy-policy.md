@@ -1,38 +1,39 @@
-Gizlilik Politikası
+Privacy Policy
 
-Son güncelleme: 12 Ekim 2025
-Uygulama: Not Defteri (örnek ad)
+Last updated: October 15, 2025
+App Name: Notesa – Quick & Safe Notes
 
-Bu uygulama, kullanıcı gizliliğine büyük önem verir. Notlar yalnızca cihazınızda saklanır ve geliştirici tarafından erişilemez.
+This app is committed to protecting your privacy. All notes are stored locally on your device and are never sent to any server or shared with any third party.
 
-Toplanan Veriler
+Data Collection
 
-Uygulama, herhangi bir kişisel veri, konum, kişi listesi, cihaz kimliği veya çevrimiçi içerik toplamaz.
+The app does not collect any personal data such as name, email address, location, contacts, or device identifiers.
 
-Notlarınız yalnızca cihazınızda tutulur..
+Notes are stored only on your device.
 
-Herhangi bir kullanıcı hesabı veya çevrimiçi kayıt gerekmez.
+No user account or online registration is required.
 
-Opsiyonel Yedekleme:
-Kullanıcı isteğiyle iCloud (iOS) veya Google Drive (Android) üzerinden manuel yedekleme yapılabilir. Bu özellik yalnızca kullanıcının açık eylemiyle çalışır ve otomatik veri aktarımı içermez.
+Optional Backup
+If you choose to enable backup, notes can be manually saved via iCloud (iOS) or Google Drive (Android). This is an optional feature and only occurs with your explicit action.
 
-Reklam ve Analitik
+Analytics and Advertising
 
-Bu uygulama:
+This app:
 
-Üçüncü taraf reklamlar göstermez.
+Does not display third-party advertisements.
 
-Analitik veriler (kullanıcı davranışı, cihaz bilgisi vb.) toplamaz veya işlemez.
+Does not use analytics tools or collect usage data.
 
-Veri Silme
+Data Deletion
 
-Uygulama içinde bulunan “Tüm Verileri Sil” seçeneği ile tüm notlarınızı kalıcı olarak silebilirsiniz. Bu işlem yalnızca cihazınızda gerçekleşir ve geri alınamaz.
+You can permanently delete all your notes using the "Delete All Data" option within the app.
+This action removes the data locally from your device and cannot be undone.
 
-Veri Paylaşımı
+Data Sharing
 
-Kullanıcı verileri geliştirici dahil hiçbir kişi, kurum veya üçüncü tarafla paylaşılmaz.
+Your data is never shared with the developer or any third party.
 
-İletişim
+Contact
 
-Gizlilikle ilgili sorularınız veya talepleriniz için:
-📧 privacy@ornek.com
+If you have any questions or concerns about this privacy policy, please contact us at:
+📧 notesahelp@gmail.com
