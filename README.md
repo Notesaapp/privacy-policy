@@ -1,37 +1,73 @@
-Last updated: October 15, 2025
-App Name: Notesa – Quick & Safe Notes
+Owner: Notesa App
+Contact Email: notesahelp@gmail.com
 
-This app is committed to protecting your privacy. All notes are stored locally on your device and are never sent to any server or shared with any third party.
+1. Introduction
 
-**Data Collection**
+Notesa is a personal note-taking application designed to work entirely on your device. Your privacy is our top priority. This policy explains how the app handles user data, subscriptions, and your rights.
 
-The app does not collect any personal data such as name, email address, location, contacts, or device identifiers.
+Key points:
 
-Notes are stored only on your device.
+No personal data is collected, stored, or shared.
 
-No user account or online registration is required.
+Notes are saved locally on your device only.
 
-Optional Backup
-If you choose to enable backup, notes can be manually saved via iCloud (iOS) or Google Drive (Android). This is an optional feature and only occurs with your explicit action.
+The app does not use push notifications.
 
-**Analytics and Advertising**
+2. Data Collection
 
-**This app:**
+No data is collected: Notesa does not collect or transmit any information from your device.
 
-Does not display third-party advertisements.
+Local storage: All notes are stored locally on your device and remain private.
 
-Does not use analytics tools or collect usage data.
+Third-party services: The app does not use third-party analytics, advertising, or tracking tools.
 
-**Data Deletion**
+3. Subscriptions and Payments
 
-You can permanently delete all your notes using the "Delete All Data" option within the app.
-This action removes the data locally from your device and cannot be undone.
+Premium features may require a subscription.
 
-**Data Sharing**
+Payment is processed entirely through Apple App Store or Google Play.
 
-Your data is never shared with the developer or any third party.
+Notesa does not store your payment information.
 
-**Contact**
+Subscription management and cancellation:
 
-If you have any questions or concerns about this privacy policy, please contact us at:
-📧 notesahelp@gmail.com
+iOS: Settings → [Apple ID] → Subscriptions → Notesa
+
+Android: Play Store → Menu → Subscriptions → Notesa
+
+Subscriptions automatically renew unless canceled by the user.
+
+Any refund policies are governed by the App Store or Google Play.
+
+4. Security
+
+Notes are stored only on your device; we do not transmit or backup your data.
+
+Standard device security applies (lock screen, device encryption, etc.).
+
+5. User Rights
+
+Although the app does not collect personal data, you have the following rights regarding your subscriptions:
+
+Access and manage subscription information through your device settings.
+
+Cancel subscriptions at any time.
+
+Request assistance via notesahelp@gmail.com
+.
+
+6. Changes to this Privacy Policy
+
+We may update this policy occasionally to comply with App Store requirements or legal obligations.
+
+Users will be notified of significant changes in the app.
+
+Continued use of the app after changes constitutes acceptance of the updated policy.
+
+7. Contact
+
+For any questions about this privacy policy or your subscriptions, contact:
+Email: notesahelp@gmail.com
+
+Last Updated: 15.10.2025
+
