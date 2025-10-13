@@ -1,6 +1,3 @@
-Owner: Notesa App
-Contact Email: notesahelp@gmail.com
-
 1. Introduction
 
 Notesa is a personal note-taking application designed to work entirely on your device. Your privacy is our top priority. This policy explains how the app handles user data, subscriptions, and your rights.
